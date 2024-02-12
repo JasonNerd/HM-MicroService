@@ -27,5 +27,6 @@ replay_pid*
 *.yml
 logs/
 reference/
-
+.idea/
+*.iml
 
